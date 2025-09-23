@@ -22,15 +22,17 @@ The main subdirectories are:
 ## Contribute
 
 As this is a community-driven resource, contributions are welcome!
+To contribute, please [fork this repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo), make your changes, and [submit a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for review.
+
+We encourage contributions in the following areas:
 
 ### New Datasets
 
-To add a dataset, please [fork this repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) and add your dataset to the relevant subdirectory.
-Ensure a reference to any accompanying publication (including DOI) is added to the README file of that subdirectory.
-
-When the changes are ready, please [submit a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for review.
+To add a new dataset, create a new subdirectory under the appropriate category (e.g., `1d`, `2d_rectangular`, etc.) and include the dataset files along with a README file that contains a description of the structure of the files.
+Make sure the accompanying publication (including DOI) is referenced.
+Add a brief summary of the dataset and a link to the folder to the README file in the corresponding subdirectory (in alphabetical order).
 
 ### Corrections and Improvements
 
-We are aware that for some datasets, the descriptions and/or files may be incomplete or messy. 
+For some datasets, the descriptions and/or files may be incomplete or messy. 
 If you notice any issues or have suggestions for improvements, please feel free to submit a pull request with the necessary changes.
