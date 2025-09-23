@@ -1,7 +1,8 @@
-## 2D Rectangular 
+# 2D Rectangular 
 
 > [!NOTE]
-> Many of these datasets have been converted to a common format by Oscar Oliveira, and made publicly available in his [OR-Datasets](https://github.com/Oscar-Oliveira/OR-Datasets/tree/master/Cutting-and-Packing/2D-) repository.
+> The entries below represent the original dataset files from each respective publication.
+> Many of these datasets have been converted to a common format by Oscar Oliveira and are publicly available at https://github.com/Oscar-Oliveira/OR-Datasets
 
 
 - [`2dvsbpp`](2dvsbpp)
