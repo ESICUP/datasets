@@ -1,0 +1,12 @@
+Master Reel Width
+2480
+Grade(g/m2)
+250
+Thickness(microm)
+345
+FabReq Width(mm) Length(mm) Weigth(Kg) Toler. DiamExt DiamInt(mm)
+100000     500  1000   10000  0,08           0          0       0      0
+100001     600  1020   10000  0,08           0          0       0      0
+100002     400   560    5000  0,15           0          0       0      0
+100003     700   590    2000   0,2           0          0       0      0
+100004     900   900    8000   0,1           0          0       0      0

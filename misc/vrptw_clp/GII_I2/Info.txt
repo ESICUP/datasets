@@ -1,0 +1,20 @@
+The structure of an instance is as follows:
+
+1. line: Problem no. (Group; Class; Number)
+2. line: Vehicle container dimensions (length, width, height)
+VRPTW problem instances
+3. line: 	costumer number
+	XCoord		YCoord
+Ready Time	Due Date
+Service Time
+Vehicle packing instances
+Following lines:
+costumer number
+box type no.
+	maximum dimension 	height-flag
+	medium dimension  	height-flag
+	minimum dimension 	height-flag
+	no. of boxes per type; 
+the height-flag indicates whether the given dimension is suitable as height 
+dimension (1 = yes, 2 = no).
+

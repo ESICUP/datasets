@@ -1,7 +1,7 @@
 # 1D
 
-- [`CorreiaMH_ASC`](CorreiaMH_ASC) 
-    - These files are the test problems used in the paper Correia, Oliveira and Ferreira (2003). 
+- [`correia`](correia)
+    - Correia, M. H., Oliveira, J. F., & Ferreira, J. S. (2004). Reel and sheet cutting at a paper mill. Computers & Operations Research, 31(8), 1223-1243. DOI: https://doi.org/10.1016/S0305-0548(03)00076-5
     - The objective is to minimize trim loss when producing and cutting master reels of paper into ordered reels and sheets.
 
 - [`dualdistribution`](dualdistribution)
