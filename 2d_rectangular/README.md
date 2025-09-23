@@ -10,16 +10,16 @@
     - 2D Rectangular Strip Packing Problems (C) from HOPPER/TURTON (2000) This file contains 21 test problems used in Hopper and Turton (2000). 
     - All problems are regular. The problem size lies between 16 to 197 items.
 
-- [`clautiaux`](clautiaux)
-    - Instances used in Clautiaux, F., Sadykov, R., Vanderbeck, F., & Viaud, Q. (2018). Combining dynamic programming with filtering to solve a four-stage two-dimensional guillotine-cut bounded knapsack problem. Discrete Optimization, 29, 18-44.
-    DOI: https://doi.org/10.1016/j.disopt.2018.02.003
-    - Preprint available at: https://inria.hal.science/hal-01426690/document
-
 - [`cgcut`](cgcut)
     - 2D Constrained guillotine cutting data sets (CGCUT) from CHRISTOFIDES/WHITLOCK (1977). These data files are the 3 test problems from Table 2 of Christofides (1977) 30-44.
 
 - [`cgcutbin`](cgcutbin)
     - 2D Rectangular Bin Packing Problems (CGCUTBIN) from HOPPER/TURTON (2002). This file contains three test problems from Christofides (1977), which have been used in Hopper and Turton (2002) for comparison purposes.
+
+- [`clautiaux`](clautiaux)
+    - Instances used in Clautiaux, F., Sadykov, R., Vanderbeck, F., & Viaud, Q. (2018). Combining dynamic programming with filtering to solve a four-stage two-dimensional guillotine-cut bounded knapsack problem. Discrete Optimization, 29, 18-44.
+    DOI: https://doi.org/10.1016/j.disopt.2018.02.003
+    - Preprint available at: https://inria.hal.science/hal-01426690/document
 
 - [`d`](d)
     - 2D Rectangular Strip Packing Problems (D) DAGLI/POSHYANONDA (1997), RATANAPAN/DAGLI (1997) and RATANAPAN/DAGLI (1998). This file contains four test problems that were obtained from Dagli (1997), Ratanapan (1997) and Ratanapan (1998).
@@ -47,7 +47,7 @@
     - 2D Rectangular Bin Packing Problems (M) from HOPPER/TURTON (2002)
     - Hopper E., Turton B. C. H., 2002, An empirical study of meta-heuristics applied to 2D rectangular bin packing, Special Issue on Cutting, Packing and Knapsacking Problems, Studia Informatica, vol. 2, no. 1. ISBN 2-912590-13-2; ISSN Regular 1625-7545.
 
-- [`morabito_pureza`](morabito_purezza)
+- [`morabito_pureza`](morabito_pureza)
     - Constrained 2D Guillotine Cutting Problem from MORABITO/PUREZA (2008) “A heuristic approach based on dynamic programming and and/or-graph search for the constrained two-dimensional guillotine cutting problem 2 (DOI 10.1007/s10479-008-0457-4). The data set contains 450 randomly generated unweighted test cases and 30 classic unweighted and weighted test cases for the Constrained Two-dimensional Guillotine Cutting Problem.
 
 - [`ngcutap_ngcutcon`](ngcutap_ngcutcon)
