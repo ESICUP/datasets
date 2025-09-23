@@ -11,8 +11,11 @@ Each subdirectory contains a README file that provides information about the dat
 
 ### Contribute
 
-We welcome contributions from the academic community.
-If you want to upload a dataset, please [fork this repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) and add your dataset to the relevant subdirectory.
+We strongly encourage contributions from the community to expand and enhance this collection of datasets.
+
+To add a dataset, please [fork this repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) and add your dataset to the relevant subdirectory.
 Ensure a reference to any accompanying publication (including DOI) is added to the README file of that subdirectory.
 
 When the changes are ready, please [submit a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for review.
+
+[ADD NOTE THAT WE ARE AWARE SOME ENTRIES ARE INCOMPLETE AND/OR MESSY, CONTRIBUTIONS TO FIX IT ARE WELCOME]

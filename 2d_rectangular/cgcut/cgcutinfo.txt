@@ -1,0 +1,33 @@
+There are currently 3 data files.
+
+These data files are the 3 test problems from Table 2 of
+N.Christofides and C.Whitlock "An algorithm for
+two-dimensional cutting problems" Operations Research 25 (1977)
+30-44.
+
+Test problems 1, ..., 3 from Table 2 of that paper are
+available in files cgcut1, ..., cgcut3 respectively.
+
+The format of these data files is:
+number of pieces (m)
+length, width for the stock rectangle
+for each piece i (i=1,...,m): length, width, maximum number
+of pieces of that type that can be cut from the stock
+rectangle, value of the piece
+
+The value of the optimal solution for each of these data files
+is given in the above paper.
+
+The entire set of files is of size 2Kb (approximately).
+
+
+A full listing of the problem areas covered by OR-library can
+be found in the file info
+
+ftp access available at mscmga.ms.ic.ac.uk
+WWW access available at http://mscmga.ms.ic.ac.uk/
+
+Other test problems are available at:
+   ftp://www.univ-paris1.fr/pub/CERMSEM/hifi/2Dcutting
+   ftp://www.univ-paris1.fr/pub/CERMSEM/hifi/Strip-cutting
+

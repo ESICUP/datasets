@@ -1,0 +1,51 @@
+There are currently 5 data files.
+
+These data files contain:
+-  the 12 test problems from Table 1 of
+   J.E.Beasley "An exact two-dimensional non-guillotine
+   cutting tree search procedure" Operations Research 33 (1985)
+   49-64.
+-  the test problems solved in the working paper:
+   "A population heuristic for constrained two-dimensional 
+   non-guillotine cutting " by J.E. Beasley, available from J.E. Beasley
+   at The Management School, Imperial College, London SW7 2AZ,
+   England
+
+The test problems are the files:
+ngcutfs1, ngcutfs2, ngcutfs3, ngcutap and ngcutcon
+
+The format of these data files is:
+number of test problems
+for each test problem in turn:
+   number of pieces (m)
+   length, width for the stock rectangle
+    for each piece i (i=1,...,m): 
+       length, width, 
+       minimum number of pieces of that type that must be cut 
+       from the stock rectangle, 
+       maximum number of pieces of that type that can be cut 
+       from the stock rectangle, 
+       value of the piece
+
+Files ngcutfs1, ngcutfs2 and ngcutfs3 contain the Fekete
+and Schepers problems (types I, II and III respectively)
+solved in the above working paper. Each file has 210 test problems.
+
+File ngcutap contains 21 problems for which optimal solutions are known
+and which were solved in the above working paper. The first 12 of these test problems
+correspond to the problems solved in Table 1 of the above Operations
+Research paper.
+
+File ngcutcon contains 21 test problems solved in the above working paper
+where the minimum number of pieces that must be cut from the stock rectangle
+is sometimes > 0
+
+The largest file is ngcutfs2 of size 1Mb (approximately)
+The entire set of files is of size 3Mb (approximately).
+
+
+A full listing of the problem areas covered by OR-library can
+be found in the file info
+
+ftp access available at mscmga.ms.ic.ac.uk
+WWW access available at http://mscmga.ms.ic.ac.uk/

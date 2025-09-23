@@ -1,0 +1,29 @@
+There are currently 12 data files.
+
+These data files are the 12 test problems from Table 1 of
+J.E.Beasley "An algorithm for the two-dimensional assortment
+problem" European Journal of Operational Research 19 (1985)
+253-261.
+
+Test problems 1, 2, ..., 12 from Table 1 of that paper are
+available in files assort1, assort2, ..., assort12 respectively.
+
+The format of these data files is:
+number of pieces (m), number of stock rectangles (n), cost per
+unit area of stock rectangle waste
+for each stock rectangle i (i=1,...,n): length, width, fixed cost
+for each piece j (j=1,...,m): length, width, minimum number of
+pieces of this type, maximum number of pieces of this type, value
+
+Heuristic solution values for data files assort1, ..., assort12
+are given in the above paper. The optimal solution values are
+not known at present.
+
+The entire set of files is of size 15Kb (approximately).
+
+
+A full listing of the problem areas covered by OR-library can
+be found in the file info
+
+ftp access available at mscmga.ms.ic.ac.uk
+WWW access available at http://mscmga.ms.ic.ac.uk/

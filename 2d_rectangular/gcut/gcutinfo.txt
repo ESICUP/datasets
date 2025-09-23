@@ -1,0 +1,29 @@
+There are currently 13 data files.
+
+These data files are the 12 test problems from Table 1 of
+J.E.Beasley "Algorithms for unconstrained two-dimensional
+guillotine cutting" Journal of the Operational Research
+Society 36 (1985) 297-306 together with the single test 
+problem from Table 2 of that paper.
+
+Test problems 1, 2, ..., 12 from Table 1 of that paper are
+available in files gcut1, gcut2, ..., gcut12 respectively.
+The problem in Table 2 of that paper is available in file gcut13.
+
+The format of these data files is:
+number of pieces (m)
+length, width for the stock rectangle
+for each piece i (i=1,...,m): length, width, value
+
+The value of the optimal solution for data files gcut1, ..., gcut12
+is given in the above paper. The value of the optimal solution
+for data file gcut13 is not known at present.
+
+The entire set of files is of size 10Kb (approximately).
+
+
+A full listing of the problem areas covered by OR-library can
+be found in the file info
+
+ftp access available at mscmga.ms.ic.ac.uk
+WWW access available at http://mscmga.ms.ic.ac.uk/
