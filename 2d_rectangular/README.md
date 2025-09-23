@@ -1,4 +1,9 @@
 ## 2D Rectangular 
+
+> [!NOTE]
+> Many of these datasets have been converted to a common format by Oscar Oliveira, and made publicly available in his [OR-Datasets](https://github.com/Oscar-Oliveira/OR-Datasets/tree/master/Cutting-and-Packing/2D-) repository.
+
+
 - [`2dvsbpp`](2dvsbpp)
     - Two-dimensional variable sized bin packing problem test instances uses in “The two-dimensional bin packing problem with variable bin sizes and costs”, by David Pisinger, Mikkel Sigurd. Discrete Optimization, Volume 2, Issue 2, 30 June 2005, Pages 154-167, ISSN 1572-5286, DOI: https://doi.org/10.1016/j.disopt.2005.01.002
 
