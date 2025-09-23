@@ -1,10 +1,12 @@
 ## 1D
 
 - [`CorreiaMH_ASC`](CorreiaMH_ASC) 
-    - These files are the test problems used in the paper Correia, Oliveira and Ferreira (2003). The objective is to minimize trim loss when producing and cutting master reels of paper into ordered reels and sheets.
+    - These files are the test problems used in the paper Correia, Oliveira and Ferreira (2003). 
+    - The objective is to minimize trim loss when producing and cutting master reels of paper into ordered reels and sheets.
 
 - [`dualdistribution`](dualdistribution)
-   - 1D Bin Packing problem set used in the paper: Burke E. K., Hyde M. R. and Kendall G. (2010). “Providing a Memory Mechanism to Enhance the Evolutionary Design of Heuristics”. In Proceedings of the IEEE World Congress on Computational Intelligence (CEC 2010). July 18-23 2010, Barcelona, Spain, pp 3883–3890. The item sizes are drawn from gaussian distributions, and some are taken from two such distributions.
+   - 1D Bin Packing problem set used in the paper: Burke E. K., Hyde M. R. and Kendall G. (2010). “Providing a Memory Mechanism to Enhance the Evolutionary Design of Heuristics”. In Proceedings of the IEEE World Congress on Computational Intelligence (CEC 2010). July 18-23 2010, Barcelona, Spain, pp 3883–3890. 
+   - The item sizes are drawn from gaussian distributions, and some are taken from two such distributions.
 
 - [`falkenauer`](falkenauer) 
     - 1D Bin-Packing Problems from FALKENAUER (1996) (Data sets: binpack1, binpack2, binpack3, binpack4, binpack5, binpack6, binpack7, binpack8)
