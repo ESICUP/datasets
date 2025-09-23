@@ -1,0 +1,51 @@
+Description: 
+1D Bin-Packing Problems from WAESCHER/GAU (1996)
+(Files: wae_gau1, wae_gau2)
+
+References: 
+Waescher, G., Gau, T., Heuristics for the Integer One-dimensional Cutting Stock Problem: a computational study, 
+OR Spektrum 18 (1996), 131-144 
+
+============================================================================
+
+This disc contains a collection of difficult (according to our experience)
+One-dimensional Bin Packing Problems. They have been collected from the paper
+of Waescher, G. and Gau, T. (1996). All together, 
+22 problem instances are arranged into 2 problem files.
+
+The instances are listed consecutively.
+Each problem instance has the following format:
+"problem name"
+   number m of different item weights
+   capacity C of the bins
+   item weight 1   # of items of weight 1
+   item weight 2   # of items of weight 2
+   ...
+   item weight m   # of items of weight m
+
+
+
+
+Brief characterization of the different problem files:
+
+
+
+ wae_gau1.bpp:
+   17 "difficult" (residual) problems from Gau  (1996)
+
+ wae_gau2.bpp:
+   5  "most difficult" (residual) problems from Gau  (1996)
+
+
+*****************
+Related to each problem file is a file (***.z) containing the corresponding objective
+function values which have been obtained by
+
+
+	FFD 						(column "FFD")
+
+	MTP (BACK = 50000)				(column "MTP")
+
+ 	modified MTP (Gau/Wae 1996,BACK = 500)	  	(column "MTPmod")
+
+

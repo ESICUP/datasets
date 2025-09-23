@@ -1,0 +1,53 @@
+
+Description: 
+1D Bin-Packing Problems from SCHWERIN/WAESCHER (1998)
+(Files: sch_wae1, sch_wae2)
+
+References: 
+Schwerin, P., Waescher, G., The Bin-Packing Problem: A Problem Generator and Some Numerical Experiments with FFD Packing and MTP, 
+International Transactions in Operational Research 4 (1997), 377-389 
+
+================================================================================
+
+This disc contains a collection of difficult (according to our experience)
+One-dimensional Bin Packing Problems. They have been collected from the paper 
+of Schwerin, P. and Waescher, G.(1998). All together, 
+200 problem instances are arranged into 2 problem files.
+
+The instances are listed consecutively.
+Each problem instance has the following format:
+"problem name"
+   number m of different item weights
+   capacity C of the bins
+   item weight 1   # of items of weight 1
+   item weight 2   # of items of weight 2
+   ...
+   item weight m   # of items of weight m
+
+
+
+
+Brief characterization of the different problem files:
+
+
+
+ sch_wae1.bpp:
+   100 "difficult" problems (ffd-hard, partially mtp-hard, n = 100,
+                    cf. Schwerin and Waescher (1998))
+
+ sch_wae2.bpp:
+   100 "difficult" problems (ffd-hard, partially mtp-hard, n = 120,
+                    cf. Schwerin and Waescher (1998))
+
+*****************
+Related to each problem file is a file (***.z) containing the corresponding objective
+function values which have been obtained by
+
+
+	FFD 						(column "FFD")
+
+	MTP (BACK = 50000)				(column "MTP")
+
+ 	modified MTP (Gau/Wae 1996,BACK = 500)	  	(column "MTPmod")
+
+
