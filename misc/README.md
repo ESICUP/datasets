@@ -5,5 +5,5 @@
     - The objective is to minimise paper production to satisfy orders of reels and sheets, considering simultaneous production planning of different grades of paper.
 
 - [`vrptw_clp`](vrptw_clp)
-    - Vehicle routing problem with time windows (VRPTW) combined with the container loading problem (CLP)
     - *[PUBLICATION UNKNOWN]*
+    - Vehicle routing problem with time windows (VRPTW) combined with the container loading problem (CLP)
