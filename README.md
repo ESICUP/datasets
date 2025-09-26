@@ -1,5 +1,5 @@
-#  Cutting & Packing Datasets for Academic Research
-This repository contains a collection of datasets for academic research in Cutting and Packing (C&P) problems by the ESICUP community.
+#  ESICUP Cutting & Packing Datasets
+This repository contains a collection of datasets for academic research in Cutting and Packing (C&P) problems, maintained by the ESICUP community.
 The datasets are intended to facilitate benchmarking and comparison of different algorithms and approaches.
 
 <img width="280" height="206" alt="EWG_ESICUP" src="https://github.com/user-attachments/assets/235edec8-6119-415f-b50a-1cad54b31395" />
@@ -44,10 +44,11 @@ Ensure to always provide proper reference with DOI for the dataset (can be eithe
 We also welcome converted datasets, but do require the original source files to also exist in the repository.
 
 > [!TIP]
-> See [this pull request](https://github.com/ESICUP/datasets/pull/3) as an example of a new dataset contribution
+> See [this pull request](https://github.com/ESICUP/datasets/pull/3) as an example of a new dataset contribution to this repository.
 
 ### Corrections and Improvements
 
 This repository started off as a direct clone of the ESICUP datasets webpage.
-Therefore, some datasets may contain descriptions and/or files that are incomplete or messy.
-If you encounter any errors, inconsistencies or have suggestions for improvements, please feel free to [submit an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) or a pull request with the necessary changes.
+However, some entries contained incomplete/messy descriptions and/or files.
+
+If you detect any errors, inconsistencies or have suggestions for improvements, please feel free to [submit an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) or (preferably) [open a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with the necessary changes.
