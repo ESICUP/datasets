@@ -2,6 +2,8 @@
 This repository contains a collection of datasets for academic research in Cutting and Packing (C&P) problems by the ESICUP community.
 The datasets are intended to facilitate benchmarking and comparison of different algorithms and approaches.
 
+<img width="280" height="206" alt="EWG_ESICUP" src="https://github.com/user-attachments/assets/235edec8-6119-415f-b50a-1cad54b31395" />
+
 > [!NOTE]
 > This resource was previously hosted at https://www.euro-online.org/websites/esicup/data-sets/, but has been migrated to GitHub in an effort to improve maintainability and long-term availability.
 
