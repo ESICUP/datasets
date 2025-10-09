@@ -1,0 +1,234 @@
+{
+    "comment": "Item and container dimension do not match the description in the paper",
+    "name": "LAMAS_FERNANDEZ_2022_ENGINE",
+    "container": {
+        "size-x": 300.0,
+        "size-y": 300.0
+    },
+    "item-types": [
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/22RE_block.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/22RE_block_no_support.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/ac_mount.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/ac_pulley.obj"
+        },
+        {
+            "demand": 5,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/cam_bearing_cap.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/cam_gear.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/camshaft1.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/camshaft2.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/comp_back_cover.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/compressor.obj"
+        },
+        {
+            "demand": 4,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/compressor_mount.obj"
+        },
+        {
+            "demand": 4,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/connecting_rod_3mm_hole.obj"
+        },
+        {
+            "demand": 4,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/connecting_rod_cap.obj"
+        },
+        {
+            "demand": 3,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/crank_1.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/crank_1_mirror.obj"
+        },
+        {
+            "demand": 4,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/crank_2.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/crank_gear.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/crank_pulley.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/crank_spacer.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/crankend.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/engine_stand.obj"
+        },
+        {
+            "demand": 4,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/exhaust_valves.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/fan.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/fan_clutch.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/fan_pulley.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/fan_spacer.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/flywheel.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/gears_helical_16.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/gears_helical_16r.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/gears_helical_30x10.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/gears_helical_30x10r.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/head_brace.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/head_ported.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/head_scaled.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/header.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/intake_manifold_lower.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/intake_manifold_upper.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/intake_manifold_upper_part_1.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/intake_manifold_upper_part_2.obj"
+        },
+        {
+            "demand": 4,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/intake_valve.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/left_motor_mount.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/main_cap.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/oil_cap.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/oil_filter.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/oil_pan.obj"
+        },
+        {
+            "demand": 4,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/piston.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/rear_main.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/right_motor_mount.obj"
+        },
+        {
+            "demand": 8,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/rocker_arm_3mm_hole.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/spacer.obj"
+        },
+        {
+            "demand": 8,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/spring_retainer.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/stand.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/throttle_body.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/throttle_linkage.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/timing_cover.obj"
+        },
+        {
+            "demand": 1,
+            "path": "Lamas-Fernandez, C. et al. 2022/Engine/valve_cover.obj"
+        }
+    ]
+}

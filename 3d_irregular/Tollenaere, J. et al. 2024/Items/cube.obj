@@ -1,0 +1,18 @@
+# Name: Cube
+# Volume: 48	
+# Mass Center: 1, 2, 3
+# Origin: 1, 2, 3
+v 0 0 0
+v 2 0 0
+v 2 4 0
+v 0 4 0
+v 0 0 6
+v 2 0 6
+v 2 4 6
+v 0 4 6
+f 1 4 3 2
+f 5 6 7 8
+f 1 2 6 5
+f 2 3 7 6
+f 4 8 7 3
+f 1 5 8 4

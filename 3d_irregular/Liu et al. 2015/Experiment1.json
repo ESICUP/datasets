@@ -1,0 +1,29 @@
+{
+    "container": {
+        "size-x": 20.0,
+        "size-y": 20.0
+    },
+    "item-types": [
+        {
+            "demand": 8,
+            "path": "Liu et al. 2015/tetrahedron.obj"
+        },
+        {
+            "demand": 8,
+            "path": "Liu et al. 2015/star.obj"
+        },
+        {
+            "demand": 8,
+            "path": "Liu et al. 2015/arrow.obj"
+        },
+        {
+            "demand": 8,
+            "path": "Liu et al. 2015/cube.obj"
+        },
+        {
+            "demand": 4,
+            "path": "Liu et al. 2015/ring.obj"
+        }
+    ],
+    "name": "LIU_2015"
+}

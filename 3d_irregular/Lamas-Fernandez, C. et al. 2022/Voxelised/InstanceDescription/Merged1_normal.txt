@@ -1,0 +1,16 @@
+CONTAINER	14.999482794	14.999482794	-1
+../Merged/merged_normal/stoyan1_normal_nh.binvox	1
+../Merged/merged_normal/stoyan2_normal_nh.binvox	1
+../Merged/merged_normal/stoyan3_normal_nh.binvox	1
+../Merged/merged_normal/stoyan4_normal_nh.binvox	1
+../Merged/merged_normal/stoyan5_normal_nh.binvox	1
+../Merged/merged_normal/stoyan6_normal_nh.binvox	1
+../Merged/merged_normal/stoyan7_normal_nh.binvox	1
+../Merged/merged_normal/block1_big_normal_nh.binvox	1
+../Merged/merged_normal/part2_big_normal_nh.binvox	1
+../Merged/merged_normal/part3_big_normal_nh.binvox	1
+../Merged/merged_normal/part4_big_normal_nh.binvox	1
+../Merged/merged_normal/part5_big_normal_nh.binvox	1
+../Merged/merged_normal/part6_big_normal_nh.binvox	1
+../Merged/merged_normal/stick2_big_normal_nh.binvox	1
+../Merged/merged_normal/thin_big_normal_nh.binvox	1

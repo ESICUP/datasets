@@ -1,0 +1,6 @@
+CONTAINER 	20		20 -1
+../Shapes/Piece0.binvox 15
+../Shapes/Piece1.binvox 7
+../Shapes/Piece2.binvox 9
+../Shapes/Piece3.binvox 12
+

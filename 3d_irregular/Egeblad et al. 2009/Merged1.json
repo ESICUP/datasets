@@ -1,0 +1,69 @@
+{
+    "container": {
+        "size-x": 14.99948501586914,
+        "size-y": 14.99948501586914
+    },
+    "item-types": [
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Block1.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Part2.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Part3.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Part4.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Part5.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Part6.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Stick2.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Thin.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Convex1.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Convex2.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Convex3.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Convex4.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Convex5.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Convex6.stl"
+        },
+        {
+            "demand": 1,
+            "path": "Egeblad et al. 2009/Merged/Convex7.stl"
+        }
+    ],
+    "name": "Merged1"
+}
