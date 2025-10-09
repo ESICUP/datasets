@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "ESICUP Cutting & Packing Datasets"
+message: "If you use this data repository, please cite it using the following metadata."
+url: "https://github.com/ESICUP/datasets"
+date-released: 2025-09-23
+preferred-citation:
+  type: misc
+  authors:
+  - name: "EURO Special Interest Group on Cutting and Packing (ESICUP)"
+    email: "esicup@gmail.com"
+  url: "https://github.com/ESICUP/datasets"
+  title: "Cutting & Packing Datasets"
+  id: "ESICUPDATA"
+  year: 2025
