@@ -1,8 +1,8 @@
-# 3D Irregular Data Sets
+# 3D Irregular
 
-This repository contains a collection of publicly available datasets used in different publications about cutting and packing problems with 3D irregular items.
+This folder contains a collection of publicly available datasets used in different publications about cutting and packing problems with 3D irregular items (originally hosted at https://gitlab.kuleuven.be/codes/datasets/3d-irregular-data-sets).
 
-Created by Jonas Tollenaere (jonas.tollenaere@kuleuven.be)
+Created by Jonas Tollenaere (jonas.tollenaere@kuleuven.be).
 
 ### Original publications
 
