@@ -1,0 +1,7 @@
+CONTAINER 50 50 -1
+../Chess/classic_bishop_extracoarse_nh.binvox		4
+../Chess/classic_king_extracoarse_nh.binvox		2
+../Chess/classic_knight_2_extracoarse_nh.binvox	4
+../Chess/classic_pawn_extracoarse_nh.binvox		16
+../Chess/classic_queen_extracoarse_nh.binvox		2
+../Chess/classic_rook_extracoarse_nh.binvox		4

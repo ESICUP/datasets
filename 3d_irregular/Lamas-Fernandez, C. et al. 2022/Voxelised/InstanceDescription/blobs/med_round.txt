@@ -1,0 +1,11 @@
+CONTAINER	0.90	0.90	-1
+../../Blobs/med_round0.binvox	2
+../../Blobs/med_round1.binvox	2
+../../Blobs/med_round2.binvox	2
+../../Blobs/med_round3.binvox	2
+../../Blobs/med_round4.binvox	2
+../../Blobs/med_round5.binvox	2
+../../Blobs/med_round6.binvox	2
+../../Blobs/med_round7.binvox	2
+../../Blobs/med_round8.binvox	2
+../../Blobs/med_round9.binvox	2

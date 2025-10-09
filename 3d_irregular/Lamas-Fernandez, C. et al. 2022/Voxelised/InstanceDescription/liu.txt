@@ -1,0 +1,6 @@
+CONTAINER	20	20	-1
+../Liu2015/tetrahedron_b_normal_nh.binvox	8
+../Liu2015/ring_b_normal_nh.binvox	4
+../Liu2015/arrow_b_normal_nh.binvox	8
+../Liu2015/star_b_normal_nh.binvox	8
+../Liu2015/cube_b_normal_nh.binvox	8

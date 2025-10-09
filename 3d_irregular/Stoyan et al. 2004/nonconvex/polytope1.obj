@@ -1,0 +1,65 @@
+# Object originally introduced in Stoyan, Y. G., et al. "Packing Non-convex Polytopes into a Parallelepiped.” Preprint MATHNM-06-2004: Technische Universität of Dresden.
+# Converted to OBJ by Jonas Tollenaere
+v 0 0 0
+v 8 0 0
+v 8 0 20
+v 0 0 20
+v 0 1 0
+v 0 1 20
+v 8 1 20
+v 8 1 0
+v 8 18 0
+v 8 18 20
+v 7 18 0
+v 7 18 20
+v 7 0 20
+v 8 17 0
+v 0 17 0
+v 0 17 20
+v 8 17 20
+v 1 18 20
+v 0 18 20
+v 1 0 20
+v 1 0 0
+v 1 18 0
+v 0 18 0
+v 0 18 1
+v 0 0 1
+v 8 0 1
+v 8 18 1
+v 7 0 0
+# Convex Polytope 1
+f 3 2 9 10
+f 28 13 12 11
+f 2 3 13 28
+f 9 2 28 11
+f 10 9 11 12
+f 3 10 12 13
+# Convex Polytope 2
+f 9 23 19 10
+f 15 14 17 16
+f 23 9 14 15
+f 19 23 15 16
+f 10 19 16 17
+f 9 10 17 14
+# Convex Polytope 3
+f 18 20 21 22
+f 23 1 4 19
+f 20 18 19 4
+f 21 20 4 1
+f 22 21 1 23
+f 18 22 23 19
+# Convex Polytope 4
+f 1 2 3 4
+f 5 6 7 8
+f 2 1 5 8
+f 3 2 8 7
+f 4 3 7 6
+f 1 4 6 5
+# Convex Polytope 5
+f 2 1 23 9
+f 24 25 26 27
+f 1 2 26 25
+f 23 1 25 24
+f 9 23 24 27
+f 2 9 27 26

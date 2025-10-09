@@ -1,0 +1,8 @@
+CONTAINER	15	16	-1
+../Stoyan2005/stoyan1_normal_nh.binvox	2
+../Stoyan2005/stoyan2_normal_nh.binvox	4
+../Stoyan2005/stoyan3_normal_nh.binvox	6
+../Stoyan2005/stoyan4_normal_nh.binvox	4
+../Stoyan2005/stoyan5_normal_nh.binvox	4
+../Stoyan2005/stoyan6_normal_nh.binvox	3
+../Stoyan2005/stoyan7_normal_nh.binvox	2

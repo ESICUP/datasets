@@ -1,0 +1,114 @@
+solid stoyan7
+  facet normal   12.000000   3.000000   0.000000
+    outer loop
+      vertex    4.000000   -4.000000    2.000000
+      vertex    4.000000   -4.000000    -1.000000
+      vertex    3.000000   0.000000    5.000000
+    endloop
+  endfacet
+  facet normal   3.000000   -18.000000   0.000000
+    outer loop
+      vertex    4.000000   -4.000000    2.000000
+      vertex    -2.000000   -5.000000    -1.000000
+      vertex    4.000000   -4.000000    -1.000000
+    endloop
+  endfacet
+  facet normal   3.000000   -18.000000   0.000000
+    outer loop
+      vertex    4.000000   -4.000000    2.000000
+      vertex    -2.000000   -5.000000    2.000000
+      vertex    -2.000000   -5.000000    -1.000000
+    endloop
+  endfacet
+  facet normal   3.000000   -18.000000   25.000000
+    outer loop
+      vertex    4.000000   -4.000000    2.000000
+      vertex    3.000000   0.000000    5.000000
+      vertex    -2.000000   -5.000000    2.000000
+    endloop
+  endfacet
+  facet normal   15.000000   3.000000   -6.000000
+    outer loop
+      vertex    4.000000   -4.000000    -1.000000
+      vertex    2.000000   0.000000    -4.000000
+      vertex    1.000000   5.000000    -4.000000
+    endloop
+  endfacet
+  facet normal   3.000000   -18.000000   -26.000000
+    outer loop
+      vertex    4.000000   -4.000000    -1.000000
+      vertex    -2.000000   -5.000000    -1.000000
+      vertex    2.000000   0.000000    -4.000000
+    endloop
+  endfacet
+  facet normal   66.000000   21.000000   -3.000000
+    outer loop
+      vertex    4.000000   -4.000000    -1.000000
+      vertex    1.000000   5.000000    -4.000000
+      vertex    3.000000   0.000000    5.000000
+    endloop
+  endfacet
+  facet normal   0.000000   0.000000   -10.000000
+    outer loop
+      vertex    2.000000   0.000000    -4.000000
+      vertex    0.000000   0.000000    -4.000000
+      vertex    1.000000   5.000000    -4.000000
+    endloop
+  endfacet
+  facet normal   0.000000   -6.000000   -10.000000
+    outer loop
+      vertex    2.000000   0.000000    -4.000000
+      vertex    -2.000000   -5.000000    -1.000000
+      vertex    0.000000   0.000000    -4.000000
+    endloop
+  endfacet
+  facet normal   45.000000   18.000000   -0.000000
+    outer loop
+      vertex    1.000000   5.000000    -4.000000
+      vertex    1.000000   5.000000    5.000000
+      vertex    3.000000   0.000000    5.000000
+    endloop
+  endfacet
+  facet normal   -90.000000   27.000000   0.000000
+    outer loop
+      vertex    1.000000   5.000000    -4.000000
+      vertex    -2.000000   -5.000000    2.000000
+      vertex    1.000000   5.000000    5.000000
+    endloop
+  endfacet
+  facet normal   -30.000000   9.000000   0.000000
+    outer loop
+      vertex    1.000000   5.000000    -4.000000
+      vertex    -2.000000   -5.000000    -1.000000
+      vertex    -2.000000   -5.000000    2.000000
+    endloop
+  endfacet
+  facet normal   -15.000000   3.000000   -5.000000
+    outer loop
+      vertex    1.000000   5.000000    -4.000000
+      vertex    0.000000   0.000000    -4.000000
+      vertex    -2.000000   -5.000000    -1.000000
+    endloop
+  endfacet
+  facet normal   -0.000000   0.000000   15.000000
+    outer loop
+      vertex    1.000000   5.000000    5.000000
+      vertex    0.000000   0.000000    5.000000
+      vertex    3.000000   0.000000    5.000000
+    endloop
+  endfacet
+  facet normal   -15.000000   3.000000   5.000000
+    outer loop
+      vertex    1.000000   5.000000    5.000000
+      vertex    -2.000000   -5.000000    2.000000
+      vertex    0.000000   0.000000    5.000000
+    endloop
+  endfacet
+  facet normal   0.000000   -9.000000   15.000000
+    outer loop
+      vertex    3.000000   0.000000    5.000000
+      vertex    0.000000   0.000000    5.000000
+      vertex    -2.000000   -5.000000    2.000000
+    endloop
+  endfacet
+endsolid stoyan7

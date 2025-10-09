@@ -1,0 +1,30 @@
+solid stoyan2
+  facet normal   56.000000   154.000000   -14.000000
+    outer loop
+      vertex    8.000000   0.000000    -4.000000
+      vertex    -3.000000   4.000000    -4.000000
+      vertex    6.000000   2.000000    10.000000
+    endloop
+  endfacet
+  facet normal   0.000000   0.000000   32.000000
+    outer loop
+      vertex    -3.000000   4.000000    -4.000000
+      vertex    8.000000   0.000000    -4.000000
+      vertex    0.000000   0.000000    -4.000000
+    endloop
+  endfacet
+  facet normal   0.000000   -112.000000   16.000000
+    outer loop
+      vertex    8.000000   0.000000    -4.000000
+      vertex    6.000000   2.000000    10.000000
+      vertex    0.000000   0.000000    -4.000000
+    endloop
+  endfacet
+  facet normal   56.000000   42.000000   -30.000000
+    outer loop
+      vertex    6.000000   2.000000    10.000000
+      vertex    -3.000000   4.000000    -4.000000
+      vertex    0.000000   0.000000    -4.000000
+    endloop
+  endfacet
+endsolid stoyan2

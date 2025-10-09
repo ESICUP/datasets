@@ -1,0 +1,33 @@
+{
+    "container": {
+        "size-x": 50.0,
+        "size-y": 50.0
+    },
+    "item-types": [
+        {
+            "demand": 4,
+            "path": "Lamas-Fernandez, C. et al. 2022/Chess/classic_bishop.stl"
+        },
+        {
+            "demand": 2,
+            "path": "Lamas-Fernandez, C. et al. 2022/Chess/classic_king.stl"
+        },
+        {
+            "demand": 4,
+            "path": "Lamas-Fernandez, C. et al. 2022/Chess/classic_knight.stl"
+        },
+        {
+            "demand": 16,
+            "path": "Lamas-Fernandez, C. et al. 2022/Chess/classic_pawn.stl"
+        },
+        {
+            "demand": 2,
+            "path": "Lamas-Fernandez, C. et al. 2022/Chess/classic_queen.stl"
+        },
+        {
+            "demand": 4,
+            "path": "Lamas-Fernandez, C. et al. 2022/Chess/classic_rook.stl"
+        }
+    ],
+    "name": "LAMAS_FERNANDEZ_2022_CHESS"
+}

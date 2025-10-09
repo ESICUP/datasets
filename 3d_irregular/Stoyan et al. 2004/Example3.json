@@ -1,0 +1,49 @@
+{
+    "container": {
+        "size-x": 35.0,
+        "size-y": 30.0
+    },
+    "item-types": [
+        {
+            "demand": 3,
+            "path": "Stoyan et al. 2004/nonconvex/sanitized/polytope1.obj"
+        },
+        {
+            "demand": 3,
+            "path": "Stoyan et al. 2004/nonconvex/sanitized/polytope2.obj"
+        },
+        {
+            "demand": 3,
+            "path": "Stoyan et al. 2004/nonconvex/sanitized/polytope3.obj"
+        },
+        {
+            "demand": 3,
+            "path": "Stoyan et al. 2004/nonconvex/sanitized/polytope4.obj"
+        },
+        {
+            "demand": 3,
+            "path": "Stoyan et al. 2004/nonconvex/sanitized/polytope5.obj"
+        },
+        {
+            "demand": 3,
+            "path": "Stoyan et al. 2004/nonconvex/sanitized/polytope6.obj"
+        },
+        {
+            "demand": 3,
+            "path": "Stoyan et al. 2004/nonconvex/sanitized/polytope7.obj"
+        },
+        {
+            "demand": 3,
+            "path": "Stoyan et al. 2004/nonconvex/sanitized/polytope8.obj"
+        },
+        {
+            "demand": 3,
+            "path": "Stoyan et al. 2004/nonconvex/sanitized/polytope9.obj"
+        },
+        {
+            "demand": 3,
+            "path": "Stoyan et al. 2004/nonconvex/sanitized/polytope10.obj"
+        }
+    ],
+    "name": "STOYAN_2004_EXAMPLE_3"
+}

@@ -1,0 +1,10 @@
+# Object originally introduced in Stoyan, Y. G., et al. “Packing of Convex Polytopes into a Parallelepiped.” Optimization, vol. 54, no. 2, 2005, pp. 215–35, https://doi.org/10.1080/02331930500050681.
+# Converted to OBJ by Jonas Tollenaere
+v 8 0 -4
+v -3 4 -4
+v 6 2 10
+v 0 0 -4
+f 1 2 3
+f 1 3 4
+f 1 4 2
+f 2 4 3

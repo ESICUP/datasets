@@ -1,0 +1,20 @@
+# Object originally introduced in Liu, Xiao, et al. “HAPE3D a New Constructive Algorithm for the 3D Irregular Packing Problem.” Frontiers of Information Technology & Electronic Engineering, vol. 16, no. 5, 2015, pp. 380–90, https://doi.org/10.1631/FITEE.1400421.
+# Converted to OBJ by Jonas Tollenaere
+# Name: Arrow
+# Volume: 125
+# Mass Center: 5, 5, 2.5
+# Origin: 5,5, 2.5
+v 0 0 0
+v 5 5 0
+v 10 0 0
+v 5 10 0
+v 0 0 5
+v 5 5 5
+v 10 0 5
+v 5 10 5
+f 2 1 4 3
+f 6 7 8 5
+f 6 5 1 2
+f 7 6 2 3
+f 8 7 3 4
+f 5 8 4 1

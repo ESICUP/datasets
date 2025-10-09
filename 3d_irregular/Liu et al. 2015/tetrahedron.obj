@@ -1,0 +1,14 @@
+# Object originally introduced in Liu, Xiao, et al. “HAPE3D a New Constructive Algorithm for the 3D Irregular Packing Problem.” Frontiers of Information Technology & Electronic Engineering, vol. 16, no. 5, 2015, pp. 380–90, https://doi.org/10.1631/FITEE.1400421.
+# Converted to OBJ by Jonas Tollenaere
+# Name: Tetrahedron
+# Volume: 144.3376
+# Mass Center: 5, 2.8868, 2.5
+# Origin: 0,0,0
+v 0 0 0
+v 10 0 0
+v 5 8.6603 0
+v 5 2.8868 10
+f 1 3 2
+f 1 2 4
+f 2 3 4
+f 4 3 1

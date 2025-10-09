@@ -1,0 +1,45 @@
+# Object originally introduced in Stoyan, Y. G., et al. "Packing Non-convex Polytopes into a Parallelepiped.” Preprint MATHNM-06-2004: Technische Universität of Dresden.
+# Converted to OBJ by Jonas Tollenaere
+v 0 0 0
+v 4 0 0
+v 4 8 0
+v 0 8 0
+v 4 0 8
+v 4 8 8
+v 0 8 8
+v 0 0 8
+v 2 -8 4
+v 2 4 -10
+v 2 18 4
+v 2 4 19
+# Convex Polytope 1
+f 2 1 8 5  # Invisible, completely inside
+f 2 5 9
+f 5 8 9
+f 8 1 9
+f 1 2 9
+# Convex Polytope 2
+f 6 5 8 7  # Invisible, completely inside
+f 5 6 12
+f 6 7 12
+f 7 8 12
+f 8 5 12
+# Convex Polytope 3
+f 4 3 6 7  # Invisible, completely inside
+f 3 4 11
+f 4 7 11
+f 7 6 11
+f 6 3 11
+# Convex Polytope 4
+f 2 3 4 1  # Invisible, completely inside
+f 3 2 10
+f 2 1 10
+f 1 4 10
+f 4 3 10
+# Convex Polytope 5
+f 1 8 7 4
+f 5 2 3 6
+f 1 2 5 8  # Invisible, completely inside
+f 8 5 6 7  # Invisible, completely inside
+f 7 6 3 4  # Invisible, completely inside
+f 4 3 2 1  # Invisible, completely inside
