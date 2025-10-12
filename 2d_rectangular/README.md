@@ -70,6 +70,10 @@
     - Each file has 210 test problems. (Data sets: ngcutfs1, ngcutfs2, ngcutfs3)
     - "A population heuristic for constrained two-dimensional non-guillotine cutting" (working paper) by J.E. Beasley, available from J.E. Beasley at The Management School, Imperial College, London SW7 2AZ, England. (Also available from ORLib under: Two-dimensional cutting/packing - Constrained non-guillotine at: http://mscmga.ms.ic.ac.uk/info.html) 
 
+- [`okp`](okp)
+    - Fekete, S.P., Schepers, J. (1997). A new exact algorithm for general orthogonal d-dimensional knapsack problems. In: Burkard, R., Woeginger, G. (eds) Algorithms — ESA '97. ESA 1997. Lecture Notes in Computer Science, vol 1284. Springer, Berlin, Heidelberg. https://doi.org/10.1007/3-540-63397-9_12
+    - Non-guillotine 2D orthogonal knapsack problem instances.
+
 - [`rss_cor_2014`](rss_cor_2014)
     - Unconstrained 2D guillotine cutting. Fifteen instances from: Mauro Russo, Antonio Sforza, Claudio Sterle, An exact dynamic programming algorithm for large-scale unconstrained two-dimensional guillotine cutting problems, Computers & Operations Research, Volume 50, October 2014, Pages 97-114 (DOI: 10.1016/j.cor.2014.04.001). LW1-LW4 and LU1-LU4 date back to Hifi, M., Exact algorithms for large-scale unconstrained two and three staged cutting problems, Computational Optimization and Applications, 18 (1), (2001) , pp. 63-88 (DOI: 10.1023/A:1008743711658). 
     - New instances LW5, LU5, LX1-LX5. Unknown optimum for LU5 and LX5.
