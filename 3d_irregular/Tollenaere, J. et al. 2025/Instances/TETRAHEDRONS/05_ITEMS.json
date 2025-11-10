@@ -1,0 +1,13 @@
+{
+    "name": "TETRAHEDRONS_05_ITEMS",
+    "container": {
+        "size-x": 15,
+        "size-y": 15
+    },
+    "item-types": [
+        {
+            "path": "Liu et al. 2015/tetrahedron.obj",
+            "demand": 5
+        }
+    ]
+}
