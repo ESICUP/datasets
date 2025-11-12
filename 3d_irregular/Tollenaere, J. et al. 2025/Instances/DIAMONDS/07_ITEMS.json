@@ -1,0 +1,37 @@
+{
+    "name": "DIAMONDS_07_ITEMS",
+    "container": {
+        "size-x": 24,
+        "size-y": 18
+    },
+    "item-types": [
+        {
+            "path": "Tollenaere, J. et al. 2025/Diamonds/Asscher.obj",
+            "demand": 1
+        },
+        {
+            "path": "Tollenaere, J. et al. 2025/Diamonds/Brilliant.obj",
+            "demand": 1
+        },
+        {
+            "path": "Tollenaere, J. et al. 2025/Diamonds/Cushion.obj",
+            "demand": 1
+        },
+        {
+            "path": "Tollenaere, J. et al. 2025/Diamonds/Emerald.obj",
+            "demand": 1
+        },
+        {
+            "path": "Tollenaere, J. et al. 2025/Diamonds/Marquise.obj",
+            "demand": 1
+        },
+        {
+            "path": "Tollenaere, J. et al. 2025/Diamonds/Oval.obj",
+            "demand": 1
+        },
+        {
+            "path": "Tollenaere, J. et al. 2025/Diamonds/Pear.obj",
+            "demand": 1
+        }
+    ]
+}

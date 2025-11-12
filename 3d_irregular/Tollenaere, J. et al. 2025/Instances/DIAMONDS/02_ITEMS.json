@@ -1,0 +1,17 @@
+{
+    "name": "DIAMONDS_02_ITEMS",
+    "container": {
+        "size-x": 15,
+        "size-y": 15
+    },
+    "item-types": [
+        {
+            "path": "Tollenaere, J. et al. 2025/Diamonds/Asscher.obj",
+            "demand":  1
+        },
+        {
+            "path": "Tollenaere, J. et al. 2025/Diamonds/Brilliant.obj",
+            "demand": 1
+        }
+    ]
+}

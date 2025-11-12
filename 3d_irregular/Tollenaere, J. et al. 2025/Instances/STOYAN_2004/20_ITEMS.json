@@ -1,0 +1,29 @@
+{
+    "name": "STOYAN_2004_20_ITEMS",
+    "container": {
+        "size-x": 26,
+        "size-y": 24
+    },
+    "item-types": [
+        {
+            "path": "Stoyan et al. 2004/convex/polytope1.obj",
+            "demand": 4
+        },
+        {
+            "path": "Stoyan et al. 2004/convex/polytope2.obj",
+            "demand": 4
+        },
+        {
+            "path": "Stoyan et al. 2004/convex/polytope3.obj",
+            "demand": 4
+        },
+        {
+            "path": "Stoyan et al. 2004/convex/polytope4.obj",
+            "demand": 4
+        },
+        {
+            "path": "Stoyan et al. 2004/convex/polytope5.obj",
+            "demand": 4
+        }
+    ]
+}

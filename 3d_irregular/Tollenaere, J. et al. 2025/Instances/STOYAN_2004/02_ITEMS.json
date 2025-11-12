@@ -1,0 +1,17 @@
+{
+    "name": "STOYAN_2004_02_ITEMS",
+    "container": {
+        "size-x": 12,
+        "size-y": 10
+    },
+    "item-types": [
+        {
+            "path": "Stoyan et al. 2004/convex/polytope4.obj",
+            "demand": 1
+        },
+        {
+            "path": "Stoyan et al. 2004/convex/polytope5.obj",
+            "demand": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "STOYAN_2005_17_ITEMS",
+    "container": {
+        "size-x": 15,
+        "size-y": 14
+    },
+    "item-types": [
+        {
+            "path": "Stoyan et al. 2005/polytope1.obj",
+            "demand": 2
+        },
+        {
+            "path": "Stoyan et al. 2005/polytope2.obj",
+            "demand": 2
+        },
+        {
+            "path": "Stoyan et al. 2005/polytope3.obj",
+            "demand": 3
+        },
+        {
+            "path": "Stoyan et al. 2005/polytope4.obj",
+            "demand": 2
+        },
+        {
+            "path": "Stoyan et al. 2005/polytope5.obj",
+            "demand": 3
+        },
+        {
+            "path": "Stoyan et al. 2005/polytope6.obj",
+            "demand": 2
+        },
+        {
+            "path": "Stoyan et al. 2005/polytope7.obj",
+            "demand": 3
+        }
+    ]
+}
