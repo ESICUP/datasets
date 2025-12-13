@@ -1,0 +1,24 @@
+Variant of the "ngcut" dataset found in "datasets/2d_rectangular/ngcutap_ngcutcon"
+(the "ngcut" instances are the first 12 found in the ngcutap.txt file in the
+directory "datasets/2d_rectangular/ngcutap_ngcutcon")
+where 2D, rectangular obstacles have been added to the container.
+No input box may be placed in the container overlapping with any obstacle.
+Every directory represents an instance and contains three files:
+
+boxes.txt - contains the input boxes data.
+Every line represents an input box type and follows the format:
+box name|length(x-axis)|height(y-axis)|maximum number
+of pieces of that type that can be cut from the stock
+rectangle|value of the piece
+
+container.txt - contains the container data.
+The first line presents the length (x-axis) of the container.
+The second line presents the length (y-axis) of the container.
+
+obstacles.txt - contains the obstacles data.
+Every line represents a 2D rectangular obstacle placed in the
+container, and follows the format:
+obstacle name|x-position of the bottom-left vertex of the obstacle|
+y-position of the bottom-left vertex of the obstacle|
+length (x-axis) of the obstacle|width (y-axis) of the obstacle
+
