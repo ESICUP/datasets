@@ -39,6 +39,10 @@
 - [`gcutbin`](gcutbin)
     - 2D Rectangular Bin Packing Problems (GCUTBIN) from HOPPER/TURTON (2002) This file contains 13 test problems from Beasley (1985), which have been used in Hopper and Turton (2002) for comparison purposes.
 
+- [`hccut`](hccut)
+    - Hadjiconstantinou, E., Christofides, N. (1995). An Exact algorithm for general, orthogonal, two-dimensional knapsack problems. European Journal of Operational Research, vol. 83, n. 1, pp. 39-56. https://doi.org/10.1016/0377-2217(93)E0278-6
+    - Non-guillotine 2D orthogonal knapsack problem instances.
+
 - [`j`](j)
     - 2D Rectangular Strip Packing Problems (J) from JAKOBS (1996). 
     - This file contains two test problems from Jakobs (1996).
