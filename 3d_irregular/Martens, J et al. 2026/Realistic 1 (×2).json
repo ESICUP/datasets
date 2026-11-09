@@ -1,0 +1,18 @@
+{
+  "name": "Realistic 1 (×2)",
+  "comment": "Source: new format/realistic1_r4_x2.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 271.0,
+    "size-y": 130.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic1/math_gear_399564_scaled_pamo_1.0.obj",
+      "demand": 6
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic1/plug_43594_scaled_pamo_1.0.obj",
+      "demand": 400
+    }
+  ]
+}

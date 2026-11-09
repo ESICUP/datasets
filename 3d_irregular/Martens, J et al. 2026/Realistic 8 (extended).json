@@ -1,0 +1,58 @@
+{
+  "name": "Realistic 8 (extended)",
+  "comment": "Source: new format/realistic8_r4_extended.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 1200.0,
+    "size-y": 800.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/motorsport_steering_wheel_pamo_1.0.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/motorsport_steering_wheel_pamo_1.0_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/motorsport_steering_wheel_pamo_1.0_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/beam_250.obj",
+      "demand": 250
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/beam_250_x0.5.obj",
+      "demand": 250
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/beam_250_x2.obj",
+      "demand": 250
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/beam_150.obj",
+      "demand": 150
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/beam_150_x0.5.obj",
+      "demand": 150
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/beam_150_x2.obj",
+      "demand": 150
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/beam_100.obj",
+      "demand": 100
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/beam_100_x0.5.obj",
+      "demand": 100
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8_extended/beam_100_x2.obj",
+      "demand": 100
+    }
+  ]
+}

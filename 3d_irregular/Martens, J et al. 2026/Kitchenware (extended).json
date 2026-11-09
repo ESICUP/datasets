@@ -1,0 +1,574 @@
+{
+  "name": "Kitchenware (extended)",
+  "comment": "Source: new format/Kitchenware_scaled_r4_nf_pamo_0.99_extended.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 200.0,
+    "size-y": 200.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/soup_ladle_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/soup_ladle_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/soup_ladle_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/spatula_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/spatula_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/spatula_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/kitchen_cooking_pot_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/kitchen_cooking_pot_scaled_pamo_0.99_x0.5.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/kitchen_cooking_pot_scaled_pamo_0.99_x2.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/french_water_glass_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/french_water_glass_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/french_water_glass_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wooden_spatula_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wooden_spatula_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wooden_spatula_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wooden_spoon_2_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wooden_spoon_2_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wooden_spoon_2_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_spoon_small_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_spoon_small_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_spoon_small_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/sauce_pan_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/sauce_pan_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/sauce_pan_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/coffee_pot_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/coffee_pot_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/coffee_pot_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/glass_water_jug_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/glass_water_jug_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/glass_water_jug_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/pancake_frying_pan_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/pancake_frying_pan_scaled_pamo_0.99_x0.5.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/pancake_frying_pan_scaled_pamo_0.99_x2.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/simple_cutting_board_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/simple_cutting_board_scaled_pamo_0.99_x0.5.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/simple_cutting_board_scaled_pamo_0.99_x2.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/tea_kettle_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/tea_kettle_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/tea_kettle_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/plate_small_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/plate_small_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/plate_small_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_knife_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_knife_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_knife_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/meat_cleaver_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/meat_cleaver_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/meat_cleaver_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/dish_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/dish_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/dish_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/bread_knife_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/bread_knife_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/bread_knife_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_fork_big_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_fork_big_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_fork_big_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/sharpening_steel_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/sharpening_steel_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/sharpening_steel_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/coffee_mug_take_away_scaled_pamo_0.99.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/coffee_mug_take_away_scaled_pamo_0.99_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/coffee_mug_take_away_scaled_pamo_0.99_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/plate_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/plate_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/plate_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/kitchen_knife_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/kitchen_knife_scaled_pamo_0.99_x0.5.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/kitchen_knife_scaled_pamo_0.99_x2.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/slicing_knife_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/slicing_knife_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/slicing_knife_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/filleting_knife_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/filleting_knife_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/filleting_knife_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cloth_placemat_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cloth_placemat_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cloth_placemat_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_spoon_big_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_spoon_big_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_spoon_big_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/moka_coffee_pot_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/moka_coffee_pot_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/moka_coffee_pot_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/bowl_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/bowl_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/bowl_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/chefs_knife_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/chefs_knife_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/chefs_knife_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wine_glass_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wine_glass_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wine_glass_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/old_frying_pan_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/old_frying_pan_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/old_frying_pan_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/paring_knife_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/paring_knife_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/paring_knife_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/three_baking_trays_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/three_baking_trays_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/three_baking_trays_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/pizza_knife_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/pizza_knife_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/pizza_knife_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/long_spoon_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/long_spoon_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/long_spoon_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wooden_spoon_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wooden_spoon_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wooden_spoon_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_fork_small_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_fork_small_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cutlery_fork_small_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wood_tray_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wood_tray_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/wood_tray_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/rattan_placemat_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/rattan_placemat_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/rattan_placemat_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cleaver_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cleaver_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/cleaver_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/coffee_mug_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/coffee_mug_scaled_pamo_0.99_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/coffee_mug_scaled_pamo_0.99_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/One_Cup_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/One_Cup_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/One_Cup_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Quarter_Cup_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Quarter_Cup_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Quarter_Cup_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Tablespoon_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Tablespoon_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Tablespoon_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Half_Cup_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Half_Cup_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Half_Cup_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Teaspoon_scaled_pamo_0.99.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Teaspoon_scaled_pamo_0.99_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99_extended/Teaspoon_scaled_pamo_0.99_x2.obj",
+      "demand": 1
+    }
+  ]
+}

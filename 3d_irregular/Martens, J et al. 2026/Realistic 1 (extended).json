@@ -1,0 +1,34 @@
+{
+  "name": "Realistic 1 (extended)",
+  "comment": "Source: new format/realistic1_r4_extended.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 542.0,
+    "size-y": 260.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic1_extended/math_gear_399564_scaled_pamo_1.0.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic1_extended/math_gear_399564_scaled_pamo_1.0_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic1_extended/math_gear_399564_scaled_pamo_1.0_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic1_extended/plug_43594_scaled_pamo_1.0.obj",
+      "demand": 200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic1_extended/plug_43594_scaled_pamo_1.0_x0.5.obj",
+      "demand": 200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic1_extended/plug_43594_scaled_pamo_1.0_x2.obj",
+      "demand": 200
+    }
+  ]
+}

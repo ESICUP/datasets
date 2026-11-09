@@ -1,0 +1,58 @@
+{
+  "name": "Realistic 7 (extended)",
+  "comment": "Source: new format/realistic7_r4_extended.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 1420.0,
+    "size-y": 1000.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/rim_pamo_1.0.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/rim_pamo_1.0_x0.5.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/rim_pamo_1.0_x2.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/rim_small_pamo_1.0.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/rim_small_pamo_1.0_x0.5.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/rim_small_pamo_1.0_x2.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/shaft_pamo_1.0.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/shaft_pamo_1.0_x0.5.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/shaft_pamo_1.0_x2.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/shaft_small_pamo_1.0.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/shaft_small_pamo_1.0_x0.5.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic7_extended/shaft_small_pamo_1.0_x2.obj",
+      "demand": 4
+    }
+  ]
+}

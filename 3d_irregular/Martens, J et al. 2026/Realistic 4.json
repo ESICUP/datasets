@@ -1,0 +1,42 @@
+{
+  "name": "Realistic 4",
+  "comment": "Source: new format/realistic4_r8.json. Source allowed-rotations: 0, 45, 90, 135, 180, 225, 270, 315 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 130.0,
+    "size-y": 200.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4/brace_270gr_28mm_bulk_pamo_1.0.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4/brace_90gr_corner_bulk_pamo_1.0.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4/brace_crossways_pamo_1.0.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4/brace_parallel_bulk_pamo_1.0.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4/disk_brake_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4/electrical_cage_bulk_pamo_1.0.obj",
+      "demand": 1200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4/vented_disk_brake_rotor_pamo_1.0.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4/cassette_9_gears_pamo_1.0.obj",
+      "demand": 1
+    }
+  ]
+}

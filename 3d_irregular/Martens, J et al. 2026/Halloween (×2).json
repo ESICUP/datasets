@@ -1,0 +1,358 @@
+{
+  "name": "Halloween (×2)",
+  "comment": "Source: new format/Halloween_scaled_r4_nf_pamo_0.99_x2.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 185.0,
+    "size-y": 145.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/nimbus_2000_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/halloween_pumpkin_5_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/Great_White_Shark_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_huge_leg_right_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_large_body_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_wing_right_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/sea_bass_skeleton_scaled_pamo_0.99.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/snowy_owl_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/ghost_1_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/pumpkin_3_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/spiked_log_club_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/autumn_sword_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/pumpkin_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/fallen_book_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/character_ghost_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/spiked_club_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/open_book_about_magic_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_huge_head_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/skull_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/spooky_skeleton_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/spooky_cat_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_large_leg_right_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/cauldron_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/knife_2_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/curious_skeleton_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/smoking_pipe_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/pumpkin_1_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/smoking_cauldron_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/saber_toothed_cat_skeleton_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/witch_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/fruit_witch_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/dragon_skull_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/spooky_spider_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_body_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_wing_left_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/broom_2_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/cat_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/coffin_scaled_pamo_0.99.obj",
+      "demand": 12
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bat_2_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/halloween_pumpkin_2_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/plague_mask_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/skeleton_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/witch_hat_1_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_huge_leg_left_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/realistic_skull_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_leg_left_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/halloween_pumpkin_1_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_large_leg_left_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bat_1_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/morning_star_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/broom_1_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/halloween_pumpkin_4_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/ghostface_mask_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/knife_1_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/calabaza_de_peregrino_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/armored_cat_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bat_4_scaled_pamo_0.99.obj",
+      "demand": 18
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/pumpkin_mage_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/witch_roll_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_leg_right_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/frank_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_head_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/pumpkin_2_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_huge_wing_left_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/cat_skeleton_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_huge_wing_right_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/chunky_knight_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/halloween_spider_pumpkin_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/crystal_ball_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_large_wing_right_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bat_3_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/broom_3_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/like_ghost_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/wizard_hat_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_large_head_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/halloween_pumpkin_3_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/quad_version_pumpkin_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/wolf_spider_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/dragon_skull_2_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/owl_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/witch_hat_2_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_huge_body_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/ghost_2_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/bone_large_wing_left_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/old_fantasy_potions_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/jack-o-lantern_scaled_pamo_0.99.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/halloween_scaled_pamo_0.99/one-eyed_monster_scaled_pamo_0.99.obj",
+      "demand": 2
+    }
+  ]
+}

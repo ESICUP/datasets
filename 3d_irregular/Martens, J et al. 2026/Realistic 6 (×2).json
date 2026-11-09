@@ -1,0 +1,18 @@
+{
+  "name": "Realistic 6 (×2)",
+  "comment": "Source: new format/realistic6_r4_x2.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 640.0,
+    "size-y": 360.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic6/left_foot_insole_pamo_1.0.obj",
+      "demand": 100
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic6/right_foot_insole_pamo_1.0.obj",
+      "demand": 100
+    }
+  ]
+}

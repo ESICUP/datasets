@@ -1,0 +1,106 @@
+{
+  "name": "Realistic 4 (extended)",
+  "comment": "Source: new format/realistic4_r8_extended.json. Source allowed-rotations: 0, 45, 90, 135, 180, 225, 270, 315 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 260.0,
+    "size-y": 400.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_270gr_28mm_bulk_pamo_1.0.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_270gr_28mm_bulk_pamo_1.0_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_270gr_28mm_bulk_pamo_1.0_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_90gr_corner_bulk_pamo_1.0.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_90gr_corner_bulk_pamo_1.0_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_90gr_corner_bulk_pamo_1.0_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_crossways_pamo_1.0.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_crossways_pamo_1.0_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_crossways_pamo_1.0_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_parallel_bulk_pamo_1.0.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_parallel_bulk_pamo_1.0_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/brace_parallel_bulk_pamo_1.0_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/disk_brake_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/disk_brake_pamo_1.0_x0.5.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/disk_brake_pamo_1.0_x2.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/electrical_cage_bulk_pamo_1.0.obj",
+      "demand": 1200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/electrical_cage_bulk_pamo_1.0_x0.5.obj",
+      "demand": 1200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/electrical_cage_bulk_pamo_1.0_x2.obj",
+      "demand": 1200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/vented_disk_brake_rotor_pamo_1.0.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/vented_disk_brake_rotor_pamo_1.0_x0.5.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/vented_disk_brake_rotor_pamo_1.0_x2.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/cassette_9_gears_pamo_1.0.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/cassette_9_gears_pamo_1.0_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic4_extended/cassette_9_gears_pamo_1.0_x2.obj",
+      "demand": 1
+    }
+  ]
+}
