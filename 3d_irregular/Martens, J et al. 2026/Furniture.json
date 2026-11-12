@@ -1,0 +1,210 @@
+{
+  "name": "Furniture",
+  "comment": "Source: new format/Furniture_realistically_scaled_r4_nf_pamo_0.1.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 200.0,
+    "size-y": 200.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/refrigerator_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/candlestick_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/old_vanity_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/fridge_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/old_fashioned_clock_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/washing_machine_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/hest_of_drawers_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/wooden_horse_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/bed_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/baking_tray_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/old_rusty_street_lamp_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/simple_table_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/japanese_toilet_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/desk_fan_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/sofa_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/two_candles_holder_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/microwave_oven_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/basket_shelving_for_store_or_warehouse_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/couch_1_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/table_round_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/coffee_table_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/aged_plastic_garden_chair_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/table_2_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/sofa_2_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/ashtray_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/couch_2_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/modern_wooden_corner_shelf_unit_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/table_1_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/old_closet_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/mirror_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/old_bench_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/desk_lamp_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/vintage_wingback_armchair_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/old_file_rack_3layers_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/modern_single_sofa_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/old_retro_tv_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/stool_wood_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/baking_dish_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/armchair_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/medical_stool_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/mid_century_lounge_chair_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/old_school_chair_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/table_3_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/sofa_3_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/shelf_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/toilet_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/old_desk_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/lamp_retro_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/cardboard_box_scaled_pamo_0.1.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/furniture_realisticaly_scaled_pamo_0.1/bathtub_scaled_pamo_0.1.obj",
+      "demand": 1
+    }
+  ]
+}

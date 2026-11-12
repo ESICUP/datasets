@@ -1,0 +1,62 @@
+{
+  "name": "Cutlery (×2)",
+  "comment": "Source: new format/Cutlery_r4_nf_pamo_0.99_x2.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 100.0,
+    "size-y": 100.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/cutlery_spoon_small_scaled_pamo_0.99.obj",
+      "demand": 40
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/cutlery_knife_scaled_pamo_0.99.obj",
+      "demand": 40
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/cutlery_fork_big_scaled_pamo_0.99.obj",
+      "demand": 40
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/cloth_placemat_scaled_pamo_0.99.obj",
+      "demand": 40
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/cutlery_spoon_big_scaled_pamo_0.99.obj",
+      "demand": 40
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/long_spoon_scaled_pamo_0.99.obj",
+      "demand": 40
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/cutlery_fork_small_scaled_pamo_0.99.obj",
+      "demand": 40
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/rattan_placemat_scaled_pamo_0.99.obj",
+      "demand": 40
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/One_Cup_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/Quarter_Cup_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/Tablespoon_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/Half_Cup_scaled_pamo_0.99.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/kitchenware_scaled_pamo_0.99/Teaspoon_scaled_pamo_0.99.obj",
+      "demand": 2
+    }
+  ]
+}

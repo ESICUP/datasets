@@ -1,0 +1,26 @@
+{
+  "name": "Realistic 8 (×2)",
+  "comment": "Source: new format/realistic8_r4_x2.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 600.0,
+    "size-y": 400.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8/motorsport_steering_wheel_pamo_1.0.obj",
+      "demand": 6
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8/beam_250.obj",
+      "demand": 500
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8/beam_150.obj",
+      "demand": 300
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic8/beam_100.obj",
+      "demand": 200
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Realistic 2",
+  "comment": "Source: new format/realistic2_r4.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 400.0,
+    "size-y": 455.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2/clip_peg_763398_scaled_pamo_1.0.obj",
+      "demand": 200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2/Pocket_drone_492897_scaled_pamo_1.0.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2/shamrock_clip_on_494997_scaled_pamo_1.0.obj",
+      "demand": 500
+    }
+  ]
+}

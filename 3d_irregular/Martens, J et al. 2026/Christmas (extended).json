@@ -1,0 +1,574 @@
+{
+  "name": "Christmas (extended)",
+  "comment": "Source: new format/Christmas_scaled_r4_nf_pamo_0.5_extended.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 46.2,
+    "size-y": 46.2
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/sled_1_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/sled_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/sled_1_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gingerbread_man_1_scaled_pamo_0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gingerbread_man_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gingerbread_man_1_scaled_pamo_0.5_x2.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_elf_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_elf_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_elf_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_3_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_3_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_3_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/Candy-Cane_scaled_pamo_0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/Candy-Cane_scaled_pamo_0.5_x0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/Candy-Cane_scaled_pamo_0.5_x2.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/two_gift_boxes_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/two_gift_boxes_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/two_gift_boxes_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_7_scaled_pamo_0.5.obj",
+      "demand": 7
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_7_scaled_pamo_0.5_x0.5.obj",
+      "demand": 7
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_7_scaled_pamo_0.5_x2.obj",
+      "demand": 7
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_bell_1_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_bell_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_bell_1_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/reindeer_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/reindeer_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/reindeer_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_hat_1_scaled_pamo_0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_hat_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_hat_1_scaled_pamo_0.5_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_2_scaled_pamo_0.5.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_2_scaled_pamo_0.5_x2.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_bag_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_bag_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_bag_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_8_scaled_pamo_0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_8_scaled_pamo_0.5_x0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_8_scaled_pamo_0.5_x2.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/reindeer_headband_scaled_pamo_0.5.obj",
+      "demand": 6
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/reindeer_headband_scaled_pamo_0.5_x0.5.obj",
+      "demand": 6
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/reindeer_headband_scaled_pamo_0.5_x2.obj",
+      "demand": 6
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pile_of_gift_boxes_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pile_of_gift_boxes_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pile_of_gift_boxes_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_5_scaled_pamo_0.5.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_5_scaled_pamo_0.5_x0.5.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_5_scaled_pamo_0.5_x2.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_ball_2_scaled_pamo_0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_ball_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_ball_2_scaled_pamo_0.5_x2.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_1_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_1_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_lights_scaled_pamo_0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_lights_scaled_pamo_0.5_x0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_lights_scaled_pamo_0.5_x2.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_sock_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_sock_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_sock_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_star_1_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_star_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_star_1_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_4_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_4_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_4_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/santa_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/santa_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/santa_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pine_tree_1_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pine_tree_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pine_tree_1_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_star_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_star_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_star_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_doll_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_doll_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_doll_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_3_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_3_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_3_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_wreath_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_wreath_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_wreath_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pine_tree_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pine_tree_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pine_tree_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_lights_2_scaled_pamo_0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_lights_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_lights_2_scaled_pamo_0.5_x2.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/snowman_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_3_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_3_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_3_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_ball_1_scaled_pamo_0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_ball_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_ball_1_scaled_pamo_0.5_x2.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_6_scaled_pamo_0.5.obj",
+      "demand": 6
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_6_scaled_pamo_0.5_x0.5.obj",
+      "demand": 6
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_6_scaled_pamo_0.5_x2.obj",
+      "demand": 6
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_1_scaled_pamo_0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_1_scaled_pamo_0.5_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_hat_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_hat_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_hat_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_socket_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_socket_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_socket_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/reindeer_1_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/reindeer_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/reindeer_1_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_4_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_4_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_4_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/sled_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/sled_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/sled_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gingerbread_man_2_scaled_pamo_0.5.obj",
+      "demand": 12
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gingerbread_man_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 12
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gingerbread_man_2_scaled_pamo_0.5_x2.obj",
+      "demand": 12
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_bell_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_bell_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_bell_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_ball_3_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_ball_3_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_ball_3_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_4_scaled_pamo_0.5.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_4_scaled_pamo_0.5_x0.5.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/gift_box_4_scaled_pamo_0.5_x2.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_1_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/christmas_tree_1_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pine_cone_scaled_pamo_0.5.obj",
+      "demand": 20
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pine_cone_scaled_pamo_0.5_x0.5.obj",
+      "demand": 20
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/christmas_scaled_pamo_0.5_extended/pine_cone_scaled_pamo_0.5_x2.obj",
+      "demand": 20
+    }
+  ]
+}

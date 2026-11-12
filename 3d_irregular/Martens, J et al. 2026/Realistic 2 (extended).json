@@ -1,0 +1,46 @@
+{
+  "name": "Realistic 2 (extended)",
+  "comment": "Source: new format/realistic2_r4_extended.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 800.0,
+    "size-y": 910.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2_extended/clip_peg_763398_scaled_pamo_1.0.obj",
+      "demand": 200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2_extended/clip_peg_763398_scaled_pamo_1.0_x0.5.obj",
+      "demand": 200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2_extended/clip_peg_763398_scaled_pamo_1.0_x2.obj",
+      "demand": 200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2_extended/Pocket_drone_492897_scaled_pamo_1.0.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2_extended/Pocket_drone_492897_scaled_pamo_1.0_x0.5.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2_extended/Pocket_drone_492897_scaled_pamo_1.0_x2.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2_extended/shamrock_clip_on_494997_scaled_pamo_1.0.obj",
+      "demand": 500
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2_extended/shamrock_clip_on_494997_scaled_pamo_1.0_x0.5.obj",
+      "demand": 500
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic2_extended/shamrock_clip_on_494997_scaled_pamo_1.0_x2.obj",
+      "demand": 500
+    }
+  ]
+}

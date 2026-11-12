@@ -16,6 +16,7 @@ Created by Jonas Tollenaere (jonas.tollenaere@kuleuven.be).
 | Stoyan, Y. G., Gil, N. I., Scheithauer, G., Pankratov, A., & Magdalina, I.  | 2005 | Packing of convex polytopes into a parallelepiped. Optimization, 54(2), 215–235.                                                                        | [10.1080/02331930500050681](https://doi.org/10.1080/02331930500050681)       |
 | Tollenaere, J., Çalık, H., & Wauters, T.                                    | 2024 | Efficient use of collision detection for volume maximization problems. European Journal of Operational Research.                                        | [10.1016/j.ejor.2024.05.048](https://doi.org/10.1016/j.ejor.2024.05.048)     |
 | Tollenaere, J., Sykora, T. M., & Wauters, T.                                      | 2025 | Mixed-integer linear programming models for 3D irregular strip packing problems. European Journal of Operational Research.                                              | [10.1016/j.ejor.2025.10.041](https://doi.org/10.1016/j.ejor.2025.10.041)
+| Martens, J., Smet, P., & Wauters, T. | 2026 | Scaling Sparrow-3D for Complex Geometries in Three-Dimensional Irregular Strip Packing. Under review at *Computers & Operations Research*. | |
 
 ### Other sources
 

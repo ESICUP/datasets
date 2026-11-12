@@ -1,0 +1,658 @@
+{
+  "name": "Animals (extended)",
+  "comment": "Source: new format/Animals_scaled_reduced_r4_nf_pamo_0.5_extended.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 1000.0,
+    "size-y": 1100.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/ant_scaled_pamo_0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/ant_scaled_pamo_0.5_x0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/ant_scaled_pamo_0.5_x2.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/turtle_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/turtle_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/turtle_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/fish_2_scaled_pamo_0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/fish_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/fish_2_scaled_pamo_0.5_x2.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/female_african_elephant_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/female_african_elephant_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/female_african_elephant_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/dolphin_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/dolphin_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/dolphin_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/eagle_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/eagle_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/eagle_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/penguing_1_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/penguing_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/penguing_1_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/parrot_2_scaled_pamo_0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/parrot_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/parrot_2_scaled_pamo_0.5_x2.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/donkey_scaled_pamo_0.5.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/donkey_scaled_pamo_0.5_x0.5.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/donkey_scaled_pamo_0.5_x2.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/penguing_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/penguing_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/penguing_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/pig_scaled_scaled_pamo_0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/pig_scaled_scaled_pamo_0.5_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/pig_scaled_scaled_pamo_0.5_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/female_lion_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/female_lion_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/female_lion_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/horse_scaled_pamo_0.5.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/horse_scaled_pamo_0.5_x0.5.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/horse_scaled_pamo_0.5_x2.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/deer_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/deer_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/deer_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/lion_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/lion_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/lion_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/chicken_1_scaled_pamo_0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/chicken_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/chicken_1_scaled_pamo_0.5_x2.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/bird_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/bird_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/bird_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/dog_1_scaled_pamo_0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/dog_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/dog_1_scaled_pamo_0.5_x2.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/slug_scaled_pamo_0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/slug_scaled_pamo_0.5_x0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/slug_scaled_pamo_0.5_x2.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/dog_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/dog_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/dog_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/guineafowl_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/guineafowl_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/guineafowl_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/hippopotamus_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/hippopotamus_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/hippopotamus_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/falcon_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/falcon_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/falcon_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/frog_scaled_pamo_0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/frog_scaled_pamo_0.5_x0.5.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/frog_scaled_pamo_0.5_x2.obj",
+      "demand": 30
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/shark_scaled_pamo_0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/shark_scaled_pamo_0.5_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/shark_scaled_pamo_0.5_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/bee_scaled_pamo_0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/bee_scaled_pamo_0.5_x0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/bee_scaled_pamo_0.5_x2.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/tiger_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/tiger_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/tiger_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/hedgehog_scaled_pamo_0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/hedgehog_scaled_pamo_0.5_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/hedgehog_scaled_pamo_0.5_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cat_scaled_pamo_0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cat_scaled_pamo_0.5_x0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cat_scaled_pamo_0.5_x2.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cow_scaled_pamo_0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cow_scaled_pamo_0.5_x0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cow_scaled_pamo_0.5_x2.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/rooster_scaled_pamo_0.5.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/rooster_scaled_pamo_0.5_x0.5.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/rooster_scaled_pamo_0.5_x2.obj",
+      "demand": 5
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cockroach_scaled_pamo_0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cockroach_scaled_pamo_0.5_x0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cockroach_scaled_pamo_0.5_x2.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/stag_scaled_pamo_0.5.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/stag_scaled_pamo_0.5_x0.5.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/stag_scaled_pamo_0.5_x2.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/mountain_goat_scaled_pamo_0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/mountain_goat_scaled_pamo_0.5_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/mountain_goat_scaled_pamo_0.5_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/wolf_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/wolf_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/wolf_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/hyena_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/hyena_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/hyena_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/elephant_scaled_pamo_0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/elephant_scaled_pamo_0.5_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/elephant_scaled_pamo_0.5_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cobra_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cobra_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/cobra_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/chicken_2_scaled_pamo_0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/chicken_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/chicken_2_scaled_pamo_0.5_x2.obj",
+      "demand": 10
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/mokey_scaled_pamo_0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/mokey_scaled_pamo_0.5_x0.5.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/mokey_scaled_pamo_0.5_x2.obj",
+      "demand": 8
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/great_hammerhead_shark_scaled_pamo_0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/great_hammerhead_shark_scaled_pamo_0.5_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/great_hammerhead_shark_scaled_pamo_0.5_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/deer_1_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/deer_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/deer_1_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/fox_scaled_pamo_0.5.obj",
+      "demand": 9
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/fox_scaled_pamo_0.5_x0.5.obj",
+      "demand": 9
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/fox_scaled_pamo_0.5_x2.obj",
+      "demand": 9
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/orca_scaled_pamo_0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/orca_scaled_pamo_0.5_x0.5.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/orca_scaled_pamo_0.5_x2.obj",
+      "demand": 1
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/baby_african_elephant_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/baby_african_elephant_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/baby_african_elephant_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/seahorse_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/seahorse_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/seahorse_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/parrot_1_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/parrot_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/parrot_1_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/racoon_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/racoon_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/racoon_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/owl_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/owl_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/owl_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/snake_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/snake_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/snake_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/sea_turtle_1_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/sea_turtle_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/sea_turtle_1_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/mosquito_scaled_pamo_0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/mosquito_scaled_pamo_0.5_x0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/mosquito_scaled_pamo_0.5_x2.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/fish_1_scaled_pamo_0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/fish_1_scaled_pamo_0.5_x0.5.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/fish_1_scaled_pamo_0.5_x2.obj",
+      "demand": 15
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/sea_turtle_2_scaled_pamo_0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/sea_turtle_2_scaled_pamo_0.5_x0.5.obj",
+      "demand": 3
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/Animals_scaled_pamo_0.5_extended/sea_turtle_2_scaled_pamo_0.5_x2.obj",
+      "demand": 3
+    }
+  ]
+}

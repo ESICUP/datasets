@@ -1,0 +1,118 @@
+{
+  "name": "Realistic 3 (×2)",
+  "comment": "Source: new format/realistic3_r4_x2.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 145.0,
+    "size-y": 100.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99897_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99898_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99900_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99901_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99902_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99903_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99904_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99905_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99906_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99907_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99908_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99909_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99910_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99911_pamo_1.0.obj",
+      "demand": 60
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Automatic_Transmission_Model_99912_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Gear_bearing_139429_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Gear_bearing_139430_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Sleeve_Valve_Engine_Model_97588_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Sleeve_Valve_Engine_Model_97589_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Sleeve_Valve_Engine_Model_97590_pamo_1.0.obj",
+      "demand": 4
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Sleeve_Valve_Engine_Model_97591_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Sleeve_Valve_Engine_Model_97593_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Sleeve_Valve_Engine_Model_97594_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Sleeve_Valve_Engine_Model_97595_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Sleeve_Valve_Engine_Model_97596_pamo_1.0.obj",
+      "demand": 200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Sleeve_Valve_Engine_Model_97597_pamo_1.0.obj",
+      "demand": 200
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic3/Sleeve_Valve_Engine_Model_97599_pamo_1.0.obj",
+      "demand": 40
+    }
+  ]
+}

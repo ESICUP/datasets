@@ -1,0 +1,26 @@
+{
+  "name": "Realistic 5 (×2)",
+  "comment": "Source: new format/realistic5_r4_x2.json. Source allowed-rotations: 0, 90, 180, 270 degrees. The repository schema does not encode rotation constraints. Zero-demand item types are omitted.",
+  "container": {
+    "size-x": 250.0,
+    "size-y": 450.0
+  },
+  "item-types": [
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic5/grip_suspension_engine_line_bulk_pamo_1.0.obj",
+      "demand": 1600
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic5/Toyota_4_Cylinder_Engine_22RE_Complete_working_model_1036658_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic5/Working_5_speed_transmission_model_for_Toyota_22RE_engine_1146166_pamo_1.0.obj",
+      "demand": 2
+    },
+    {
+      "path": "Martens, J et al. 2026/meshes/realistic5/Working_Gear_Driven_4WD_Toyota_Transfer_Case_Model_1312963_pamo_1.0.obj",
+      "demand": 2
+    }
+  ]
+}
